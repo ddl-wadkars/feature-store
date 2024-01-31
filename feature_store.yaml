@@ -1,0 +1,8 @@
+project: domino_feast
+registry: data/registry.db
+provider: local
+offline_store:
+    type: file
+online_store:
+    type: sqlite
+entity_key_serialization_version: 2
