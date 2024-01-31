@@ -1,0 +1,46 @@
+
+C
+#
+__dummy"
+__dummy_idJdomino_feast
+ììë¤ˆÎª¸ììë¤ˆÎª¸
+B
+"
+zipcode"zipcodeJdomino_feast
+ììë¤ÀĞ±¸ììë¤ÀĞ±¸
+€
+`
+dob_ssn<Date of birth and last four digits of social security number"dob_ssnJdomino_feast
+ììë¤ˆª¶¸ììë¤ˆª¶¸1"$3765221a-ea54-4de6-a453-002d6acad2db*…çù¦è·úÆ2µ
+”
+credit_historydomino_feastdob_ssn"
+credit_card_due"
+mortgage_due"
+student_loan_due"
+vehicle_loan_due"
+
+hard_pulls"
+missed_payments_2y"
+missed_payments_1y"
+missed_payments_6m"
+bankruptcies2€ÎÚ:—event_timestamp*created_timestampZdata/credit_history.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢data/credit_history.parquet@b
+dob_ssn
+ììë¤ “»¸ììë¤ “»¸2Ù
+¸
+zipcode_featuresdomino_feastzipcode"
+city"	
+state"
+location_type"
+tax_returns_filed"
+
+population"
+total_wages2€†°–:•event_timestamp*created_timestampZdata/zipcode_table.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢data/zipcode_table.parquet@b
+zipcode
+ììë¤ÈüÙ¸ììë¤ÈüÙ¸Rğ
+u
+,feast.infra.online_stores.sqlite.SqliteTable"E
+&/features/feature-store/data/online.dbdomino_feast_credit_history
+w
+,feast.infra.online_stores.sqlite.SqliteTable"G
+&/features/feature-store/data/online.dbdomino_feast_zipcode_featuresb¦event_timestamp*created_timestampZdata/credit_history.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢data/credit_history.parquetªdomino_feastb¤event_timestamp*created_timestampZdata/zipcode_table.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢data/zipcode_table.parquetªdomino_feastz4
+domino_feast$47eaa926-c150-404a-a6c3-2e492f055d88
