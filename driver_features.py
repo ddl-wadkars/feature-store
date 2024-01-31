@@ -11,6 +11,7 @@ from feast import (
 )
 from feast.types import Float32, Int64
 
+
 current = Path.cwd()
 
 # Read data from parquet files. Parquet is convenient for local development mode. For
