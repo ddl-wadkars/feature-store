@@ -15,8 +15,7 @@ B
 L
 ,
 driver	driver id"	driver_idJdomino_feast
-Àôé­¸Ìü©Àôé­¸Ìü©1"$64e7679d-64db-49b7-b880-7ecdab1b413b*
-ıôé­°˜F2µ
+Àôé­¸Ìü©Àôé­¸Ìü©1"$938ecfab-0f2f-4145-91d6-5e3d3ed51123*§ıé­¸‘¥•2Ç
 ”
 credit_historydomino_feastdob_ssn"
 credit_card_due"
@@ -29,8 +28,9 @@ hard_pulls"
 missed_payments_1y"
 missed_payments_6m"
 bankruptcies2€ÎÚ:—event_timestamp*created_timestampZdata/credit_history.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢data/credit_history.parquet@b
-dob_ssn
-ììë¤ “»¸ììë¤ “»¸2Ù
+dob_ssn.
+ììë¤ “»¸§ıé­ØéÆÚ
+áõ™ıé­2ë
 ¸
 zipcode_featuresdomino_feastzipcode"
 city"	
@@ -40,16 +40,18 @@ hard_pulls"
 
 population"
 total_wages2€†°–:•event_timestamp*created_timestampZdata/zipcode_table.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢data/zipcode_table.parquet@b
-zipcode
-ììë¤ÈüÙ¸ììë¤ÈüÙ¸2Ö
+zipcode.
+ììë¤ÈüÙ¸§ıé­°ëÔ÷
+áõ™ıé­2è
 µ
 driver_hourly_statsdomino_feastdriver"
 	conv_rate"
 acc_rate"
 avg_daily_trips*
 teamdriver_performance2€£:¢event_timestamp*createdZ31/features/feature-store/data/driver_stats.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢driver_hourly_stats_source@b
-	driver_id
-Àôé­˜˜ƒªÀôé­˜˜ƒªRì
+	driver_id.
+Àôé­˜˜ƒª§ıé­€¿•
+áõ™ıé­Rì
 u
 ,feast.infra.online_stores.sqlite.SqliteTable"E
 &/features/feature-store/data/online.dbdomino_feast_credit_history
